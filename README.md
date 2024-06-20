@@ -33,15 +33,15 @@ b. Once the program is started, it will repeatedly ask the user for an action to
 At the end of each action, the program must ask the user for the next action.
 
 ## Requirements:
-To run this program, you must have the following installed:
+To run this program, you must have the following installed:<br>
 - Python
 
 ## How to install the project
 Follow these steps to install the project:
-1. **Clone the repository**: Clone the repository using the following git command:
+1. **Clone the repository**: Clone the repository using the following git command:<br>
    ```git clone https://github.com/PanquecaFuriosa/Type-Handler```
 
 ## How to run the project
 Follow these steps to run the project:
-1. **Run the following bash command**:
+1. **Run the following bash command**:<br>
    ```python ManejadorDeTipos.py```
