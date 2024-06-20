@@ -28,7 +28,7 @@ b. Once the program is started, it will repeatedly ask the user for an action to
     - The language saves records and variant records by ordering the fields optimally (minimizing memory, without violating alignment rules).
     The program should report an error and ignore the action if <name> does not correspond to some type created in the program.
   5. ```SALIR```<br>
-    Debe salir del simulador.
+    It must exit the simulator.
 
 At the end of each action, the program must ask the user for the next action.
 
