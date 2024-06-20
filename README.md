@@ -39,7 +39,7 @@ To run this program, you must have the following installed:
 ## How to install the project
 Follow these steps to install the project:
 1. **Clone the repository**: Clone the repository using the following git command:
-   ```git clone https://github.com/PanquecaFuriosa/CompilerAndTranslator_manager```
+   ```git clone https://github.com/PanquecaFuriosa/Type-Handler```
 
 ## How to run the project
 Follow these steps to run the project:
